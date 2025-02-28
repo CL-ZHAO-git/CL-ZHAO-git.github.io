@@ -107,6 +107,8 @@ Actively looking for new opportunities!
       <li style="margin-bottom: 6px;">• Proficient in Latex, including Doc formating and Math environment</li>
       <li style="margin-bottom: 6px;">• 5+ years experiecne in using Cloud Server(AWS, Alibaba Cloud) </li>
       <li style="margin-bottom: 6px;">• Knowledge of Git, pipelines, and agile development methodologies.</li>
+      <li style="margin-bottom: 6px;">• DataBase: MongoDB, SQL, Prometheus.</li>
+
     </ul>
   </div>
 
