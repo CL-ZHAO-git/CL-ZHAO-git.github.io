@@ -114,8 +114,9 @@ Actively looking for new opportunities!
     <h3 style="margin-bottom: 5px;">📊 Domain Knowledge</h3>
     <ul style="list-style-type: none; padding-left: 20px; font-size: 14px; color: #555; margin-top: 0;">
       <li style="margin-bottom: 6px;">• BlockChain, CryptoCurrency and DeFi</li>
-      <li style="margin-bottom: 6px;">• AI, VC and Starups</li>
-      <li style="margin-bottom: 6px;">• Other Tech related news.</li>
+      <li style="margin-bottom: 6px;">• Computer Hardware</li>
+      <li style="margin-bottom: 6px;">• AI and Other Tech related news.</li>
+      <li style="margin-bottom: 6px;">• Derivatives.</li>
     </ul>
   </div>
 </div>
