@@ -1,6 +1,6 @@
 # My Personal Homepage
 
-welcome! the link is https://cl_zhao.github.io
+welcome! the link is https://CL-ZHAO-git.github.io
 
 <!-- # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
