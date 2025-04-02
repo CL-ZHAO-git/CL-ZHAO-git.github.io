@@ -5,8 +5,23 @@ permalink: /projects/
 author_profile: true
 ---
 
-**Here are my open-sourced projects** \\
-some projects are currently priviate
+**Here are my open-sourced history projects** \\
+Recent projects are currently priviate
+
+##  Financial News Sentiment Analysis System based on BERT
+<div style="display:inline-block; border:2px; margin:10px;">
+    <p>
+        <!-- [<a href="https://github.com/CL-ZHAO-git/Deep-learning-for-HAR">github</a>] -->
+        [document]
+        [video]
+    </p>
+    <p style="float:left;margin-top:10px;">
+    • Developed Python web scrapers to automatically extract financial news from multiple platforms and label the text as Positive, Neutral, or Negative.<br>
+    • Built and fine-tuned a classification network based on BERT(pre-trained model) with accuracy over 80% using Keras framwork<br>
+    • Deployed a visualization website to display model classification results interactively.<br>
+    </p>
+</div>
+
 
 ##  Indoor HIIT Motion Recognition
 <div style="display:inline-block; border:2px; margin:10px;">
