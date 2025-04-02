@@ -18,7 +18,7 @@ Recent projects are currently priviate
     <p style="float:left;margin-top:10px;">
     • Developed Python web scrapers to automatically extract financial news from multiple platforms and label the text as Positive, Neutral, or Negative.<br>
     • Built and fine-tuned a classification network based on BERT(pre-trained model) with accuracy over 80% using Keras framwork<br>
-    • Deployed a visualization website to display model classification results interactively.<br>
+    • Deployed a visualization website to display model classification results interactively.
     </p>
 </div>
 
