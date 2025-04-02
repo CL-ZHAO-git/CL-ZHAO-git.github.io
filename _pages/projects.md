@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-**Here are my open-sourced history projects** \\
+**Here are some of my open-sourced history projects** \\
 Recent projects are currently priviate
 
 ##  Financial News Sentiment Analysis System based on BERT
