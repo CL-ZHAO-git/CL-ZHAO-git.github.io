@@ -11,7 +11,7 @@ Recent projects are currently priviate
 ##  Financial News Sentiment Analysis System based on BERT
 <div style="display:inline-block; border:2px; margin:10px;">
     <p>
-        <!-- [<a href="https://github.com/CL-ZHAO-git/Deep-learning-for-HAR">github</a>] -->
+        [<a href="https://github.com/CL-ZHAO-git/Financial_News_Sentiment_Analysis_System_based_on_BERT">github</a>]
         [document]
         [video]
     </p>
