@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome! I am currently a [Master of Science in Quantitative and Computational Finance](https://qcf.gatech.edu) student at [Georgia Institute of Technology](https://www.gatech.edu). I obtained my Bachelor degree in Statistics from [Shandong University](https://en.sdu.edu.cn/) in 2022.
 
-My research interests mainly lie in Machine Learning, Quantitative/Algorithmic Trading etc. With a strong passion on both theories and applications. Dedicated to make impactful research and contributions.
+My research interests mainly lie in Machine Learning, Both Theory and it's application (e.g. Quantitative/Algorithmic Trading). With a strong passion on both theories and applications. Dedicated to make impactful research and contributions.
 
-Math/Stat background plus a solid coding skills both in research and engineering.
+I have a strong background in math and statistics, along with solid coding skills in both research and engineering projects.
 
 Actively looking for new opportunities!
 ## Education
@@ -59,6 +59,7 @@ Actively looking for new opportunities!
     <i>A High Frequency Trading Firm</i> | Jul 2022 – Jun 2023<br/>
   </p>
   <ul style="list-style-type: none; padding-left: 20px; font-size: 14px; color: #555; margin-top: 0;">
+    <li style="margin-bottom: 6px;"> • Trained and deployed linear and deep-learning models for predict task, optimized trading cost.</li>
     <li style="margin-bottom: 6px;"> • Responsible for the design, implementation, and management of a high-frequency arbitrage strategy.</li>
     <li style="margin-bottom: 6px;">• Conducted in-depth research on Market Microstructure, continuously analyzed trading data and Ms-level tick data to optimize strategy performance.</li>
   </ul>
