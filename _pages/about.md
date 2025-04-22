@@ -84,7 +84,7 @@ Actively looking for new opportunities!
       <li style="margin-bottom: 6px;">• Proficient in Python, C++. with expertise in application development and Research.</li>
       <li style="margin-bottom: 6px;">• 5+ years experience in Linux environment, fluent in Terminal/Shell/Vim etc.</li>
       <li style="margin-bottom: 6px;">• Strong understanding of object-oriented and functional programming paradigms. Good coding style</li>
-      <!-- <li style="margin-bottom: 6px;">• Basic knowledge of low-level computer architecture</li> -->
+      <li style="margin-bottom: 6px;">• Basic knowledge of Operation System, low-level computer architecture</li> -->
     </ul>
   </div>
 
